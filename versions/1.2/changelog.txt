@@ -1,0 +1,28 @@
+# Spider Update!
+This update adds a brand new mod which is Spider Overhaul and it aims to bring new spider variants around the Overworld while keeping the scary enviroment as much as possible.
+
+
+
+Changes:
+
+- Improved Performance
+- Reduced Waystones spawn weight (Waystones)
+- Removed ExtraSounds Next, it was conflicting with other Sounds mods
+
+
+Mods:
+
+- Updated Xaero's Minimap, Xaero's World Map
+- Added Spider Overhaul
+- Added Every Compat (Wood Good)
+- Added Simple Voice Chat
+- Added Better World Loading ([Neo]Forge)
+- Removed ExtraSounds Next
+
+
+Shaders:
+
+- Added Cursed Fog
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
