@@ -17,6 +17,7 @@ Mods:
 - Added Every Compat (Wood Good)
 - Added Simple Voice Chat
 - Added Better World Loading ([Neo]Forge)
+- Added Moonlight Lib
 - Removed ExtraSounds Next
 
 
